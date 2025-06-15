@@ -2,7 +2,7 @@
 
 🎯 **Software Engineering | Backend Development | Java & Spring Boot**
 
-I’m a Software Engineering student with a strong focus on backend development, object-oriented programming, and Java with Spring Boot. Passionate about problem-solving, clean code, and building scalable systems.
+I’m a Brazillian Software Engineering student with a strong interest on backend development, object-oriented programming, and Java with Spring Boot. Passionate about problem-solving, clean code, and building scalable systems.
 
 Driven by natural curiosity, I continuously seek to expand both my technical knowledge and my ability to approach complex challenges with clear, structured solutions. Besides my academic journey, I also bring professional experience in the environmental management field, which has strengthened my organizational, analytical, and leadership skills.
 
