@@ -10,7 +10,7 @@ Driven by natural curiosity, I continuously seek to expand both my technical kno
 
 ## 💻 Core Skills
 
-- **Languages**: Java, JavaScript, HTML, CSS
+- **Languages**: Java
 - **Backend**: Spring Boot, REST APIs, JPA/Hibernate
 - **Databases**: MySQL
 - **Version Control**: Git & GitHub
