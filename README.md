@@ -1,6 +1,6 @@
 # Ramon Albini Vieira
 
-🎯 **Software Engineering | Backend Development | Java & Spring Boot**
+**Software Engineering | Backend Development | Java & Spring Boot**
 
 I’m a Brazillian Software Engineering student with a strong interest on backend development, object-oriented programming, and Java with Spring Boot. Passionate about problem-solving, clean code, and building scalable systems.
 
@@ -8,7 +8,7 @@ Driven by natural curiosity, I continuously seek to expand both my technical kno
 
 ---
 
-## 💻 Core Skills
+## Core Skills
 
 - **Languages**: Java, JavaScript
 - **Backend**: Spring Boot, REST APIs, JPA/Hibernate, Apache Spark, node.Js
@@ -18,7 +18,7 @@ Driven by natural curiosity, I continuously seek to expand both my technical kno
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Software architecture and design principles
 - Design patterns (OOP best practices)
@@ -27,12 +27,12 @@ Driven by natural curiosity, I continuously seek to expand both my technical kno
 
 ---
 
-## 🧭 About Me
+## About Me
 
 Naturally curious and passionate about technology, I’m into gaming culture, books, nerdy topics, and enjoy exploring complex systems — both in code and beyond. I approach software development as a constant learning journey, balancing technical depth with creativity, communication, and problem-solving.
 
 ---
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out via GitHub or any of my professional networks.
