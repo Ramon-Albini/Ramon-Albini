@@ -4,7 +4,7 @@
 
 I’m a Brazillian Software Engineering student with a strong interest on backend development, object-oriented programming, and Java with Spring Boot. Passionate about problem-solving, clean code, and building scalable systems.
 
-Driven by natural curiosity, I continuously seek to expand both my technical knowledge and my ability to approach complex challenges with clear, structured solutions. Besides my academic journey, I also bring professional experience in the environmental management field, which has strengthened my organizational, analytical, and leadership skills.
+Driven by natural curiosity, I continuously seek to expand both my technical knowledge and my ability to approach complex challenges with clear, structured solutions. Besides my academic journey, I also bring professional experience in the environmental management field, which has strengthened my organizational, analytical, and leadership skills. Additionally, I currently work in the Human Resources department at the municipal government, further contributing to my interpersonal skills and people management abilities.
 
 ---
 
